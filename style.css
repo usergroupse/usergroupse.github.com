@@ -6,6 +6,7 @@ body {
 }
 #page {
    width: 1200px;
+   height: 100%;
    margin: auto;
 
 }
@@ -13,13 +14,14 @@ body {
 #logo {
    background: url('http://placekitten.com/g/800/135') no-repeat;
    height: 135px;
+   width: 800px;
 }
 
 H1 {
    text-transform:uppercase
 }
 
-#left {
+#right {
    float: left;
    height 800px;
    width: 300px;
