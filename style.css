@@ -1,0 +1,33 @@
+
+
+body {
+   background-color: #E8EEF7;
+}
+#page {
+   width: 1200px;
+
+}
+
+#logo {
+   background: url('http://placekitten.com/g/800/135') no-repeat;
+   height: 135px;
+}
+
+H1 {
+   text-transform:uppercase
+}
+
+#about {
+   float: right;
+   width: 300px;
+   height: 200px;
+   border: 1px solid #000;
+   padding: 5px;
+}
+#calendar {
+   float: left;
+   width: 800px;
+   height: 600px;
+}
+
+
