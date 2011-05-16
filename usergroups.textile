@@ -8,3 +8,8 @@ h3. Usergroups
 * "Java forum":http://jforum.se: Lite info om java forum
 * "Sclojug":http://groups.google.com/group/stockholm-clojure-user-group/: Lite info om sclojug
 
+
+<div id="missing">
+Saknar du någon usergroup? Skicka ett mail till  <a href="mailto:tips@usergroup.se">tips@usergroup.se</a> 
+Eller ännu bätre, editera "Sidan":https://github.com/usergroupse/usergroupse.github.com/blob/master/usergroups.textile med "Fork and edit this file" och skicka en pull request.
+</div>

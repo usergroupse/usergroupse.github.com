@@ -54,3 +54,9 @@ html{
   -o-background-size:cover;
   background-size:cover;
 }
+#missing {
+	width: 650px;
+	font-size: 0.9em;
+}
+
+
