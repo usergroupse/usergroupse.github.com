@@ -1,0 +1,10 @@
+---
+title: usergroups
+layout: default
+---
+
+h3. Usergroups
+
+* "Java forum":http://jforum.se: Lite info om java forum
+* "Sclojug":http://groups.google.com/group/stockholm-clojure-user-group/: Lite info om sclojug
+
