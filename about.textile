@@ -1,0 +1,45 @@
+---
+title: about
+layout: default
+---
+
+h3. Om usergroup.se
+
+h5. Våra olika ansikten
+
+* Twitter: @SthlmDevEvents
+* Google Kalender: ...
+* Sidan: http://userogrpu.se/
+
+h5. Bakgrund
+
+usergroup.se började som en tweet en vårdag i april från en av oss grundare (lägg in tweet). Vi hade alla tre på var sitt håll kännt att det började bli väldigt svårt att ha koll på alla intressanta utvecklar-träffar som händer i Stockholmsområdet. Då föddes idén om
+en event-kalender och nån timme senare föddes Google-kalendern #StoDev (Stockholm Dev Events). Kärt barn har många namn och några veckor senare lanserades hemsidan med det nya namnet usergroup.se.
+
+h5. Syfte
+
+Fokus ligger på träffar av och för utvecklare och andra it-människor men sträcker sig ut till kringområden som Agile, användbarhet och design. Kalenderns viktigast syfte är att belysa alla de bra evengemang som arrangeras i stor-stockolm och på så vis främja utvecklar-communitien i stort.
+
+Vi vill självklart fylla kalendern med så många roliga träffar som möjligt men har ändå några tumregler.
+
+Träffen skall...
+* vara gratis (eller till självkostnadspris)
+* inte vara för kommersiell (fokus på kunskap, diskussion och möten utvecklare imellan)
+
+h5. Vi bakom usergroup.se
+
+*Leonard Axelsson*
+
+Leo runs the local Groovy Usergroup SweGUG. He loves to discuss technology and meet other developers so you'll probably see him at one of the events in the calendar. By day he's a consultant/developer with Agical and works mainly on the JVM. He prefers the alternative languages to pure Java and has recently been seen learning about Clojure.
+
+Twitter: xlson
+Blog: xlson.com
+Email: leo@xlson.com
+
+*Peter Lind*
+
+Beskrivande text...
+
+*Mikael Sundberg*
+
+Beskrivande text...

@@ -5,9 +5,9 @@ layout: default
 
 h3. Usergroups
 
-* "Java forum":http://jforum.se: Lite info om java forum
-* "Sclojug":http://groups.google.com/group/stockholm-clojure-user-group/: Lite info om sclojug
-
+* "Javaforum":http://jforum.se: Den svenska JUG:en (Java Usergroup)
+* "Sclojug":http://groups.google.com/group/stockholm-clojure-user-group/: Stockholm Clojure Usergroup
+* "SweGUG":http:/http://groups.google.com/group/swegug Swedish Groovy Usergroup
 
 <div id="missing">
 Saknar du någon usergroup? Skicka ett mail till  <a href="mailto:tips@usergroup.se">tips@usergroup.se</a> 
