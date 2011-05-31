@@ -1,7 +1,7 @@
 ---
 title: usergroups
 layout: default
-background: 3
+background: 2
 ---
 
 h3. Usergroups
