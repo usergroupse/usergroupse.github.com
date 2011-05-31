@@ -1,15 +1,14 @@
 ---
 title: usergroups
 layout: default
+background: 3
 ---
 
 h3. Usergroups
 
 * "Javaforum":http://jforum.se: Den svenska JUG:en (Java Usergroup)
 * "Sclojug":http://groups.google.com/group/stockholm-clojure-user-group/: Stockholm Clojure Usergroup
-* "SweGUG":http:/http://groups.google.com/group/swegug Swedish Groovy Usergroup
+* "SweGUG":http://groups.google.com/group/swegug Swedish Groovy Usergroup
 
-<div id="missing">
-Saknar du någon usergroup? Skicka ett mail till  <a href="mailto:tips@usergroup.se">tips@usergroup.se</a> 
-Eller ännu bätre, editera "Sidan":https://github.com/usergroupse/usergroupse.github.com/blob/master/usergroups.textile med "Fork and edit this file" och skicka en pull request.
-</div>
+Saknar du någon usergroup? Skicka ett mail till  "tips@usergroup.se":mailto:tips@usergroup.se
+Eller ännu bättre, editera sidan med "fork and edit this file":https://github.com/usergroupse/usergroupse.github.com/blob/master/usergroups.textile och skicka en pull request.

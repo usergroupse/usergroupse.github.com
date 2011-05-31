@@ -1,6 +1,7 @@
 ---
 title: about
 layout: default
+background: 2
 ---
 
 h3. Om usergroup.se
@@ -13,7 +14,7 @@ h5. Våra olika ansikten
 
 h5. Bakgrund
 
-usergroup.se började som en tweet en vårdag i april från en av oss grundare (lägg in tweet). Vi hade alla tre på var sitt håll kännt att det började bli väldigt svårt att ha koll på alla intressanta utvecklar-träffar som händer i Stockholmsområdet. Då föddes idén om
+usergroup.se började som en "tweet":http://twitter.com/#!/msundb/status/54797359342817280 en vårdag i april från en av oss grundare (lägg in tweet). Vi hade alla tre på var sitt håll kännt att det började bli väldigt svårt att ha koll på alla intressanta utvecklar-träffar som händer i Stockholmsområdet. Då föddes idén om
 en event-kalender och nån timme senare föddes Google-kalendern #StoDev (Stockholm Dev Events). Kärt barn har många namn och några veckor senare lanserades hemsidan med det nya namnet usergroup.se.
 
 h5. Syfte

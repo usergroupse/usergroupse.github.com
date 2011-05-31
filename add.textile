@@ -1,0 +1,8 @@
+---
+title: Add event
+layout: default
+background: 2
+---
+
+Har du ett event att tipsa om? Skicka ett mail till "tips@usergroup.se":mailto:tips@usergroup.se
+
