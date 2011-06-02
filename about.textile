@@ -6,7 +6,7 @@ background: 2
 
 h3. About usergroup.se
 
-h4. Our different faces
+h4. Our many faces
 
 * "@usergroupSE":http://twitter.com/usergroupSE on Twitter. We tweet all events added to the calendar.
 * "The Google Calendar":https://www.google.com/calendar/embed?src=oarn29ir2vm2kjfaa5vof7qicg@group.calendar.google.com&ctz=Europe/Stockholm Why don't add the events to your own calendar?
@@ -14,7 +14,7 @@ h4. Our different faces
 
 h4. Background
 
-It all started with a "tweet":http://twitter.com/#!/msundb/status/54797359342817280 in April 2011. The user group scene in Stockholm was exploding with activity. How were you supposed to keep up? What mailing lists did you need to follow. When organizing, how did you make sure there was no other event the same day? 
+It all started with a "tweet":http://twitter.com/#!/msundb/status/54797359342817280 in April of 2011. The user group scene in Stockholm was exploding with activity. How were you supposed to keep up? What mailing lists did you have to follow. When organizing, how did you make sure there was no other event the same day? 
 
 We decided to do something about it. By using the awesome services of Twitter, Google Calendar, Twitterfeed and Github pages we managed to put something useful together in a short time. Enjoy!
 
