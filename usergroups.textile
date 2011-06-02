@@ -13,6 +13,7 @@ h3. User Groups
 * "Sclojug":http://groups.google.com/group/stockholm-clojure-user-group/ Stockholm Clojure User Group
 * "SweGUG":http://groups.google.com/group/swegug Swedish Groovy Usergroup
 * "Agical GeekNight":http://agical.se/se/pa-gang Geeknights hosted by Agical
+* "Devops sthlm":https://groups.google.com/forum/#!forum/stockholm-devops
 
 Is your favorite user group missing? Send an email to "hello@usergroup.se":mailto:hello@usergroup.se
 Or even better, "fork and edit this file":https://github.com/usergroupse/usergroupse.github.com/blob/master/usergroups.textile and send a pull request.
