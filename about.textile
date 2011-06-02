@@ -1,46 +1,32 @@
 ---
 title: about
 layout: default
-background: 1
+background: 2
 ---
 
-h3. Om usergroup.se
+h3. About usergroup.se
 
-h5. Våra olika ansikten
+h4. Our different faces
 
-* Twitter: @SthlmDevEvents
-* Google Kalender: ...
-* Sidan: http://userogrpu.se/
+* "@usergroupSE":http://twitter.com/usergroupSE on Twitter. We tweet all events added to the calendar.
+* "The Google Calendar":https://www.google.com/calendar/embed?src=oarn29ir2vm2kjfaa5vof7qicg@group.calendar.google.com&ctz=Europe/Stockholm Why don't add the events to your own calendar?
+* "usergroup.se":http://usergroup.se/ This page, duh!
 
-h5. Bakgrund
+h4. Background
 
-usergroup.se började som en "tweet":http://twitter.com/#!/msundb/status/54797359342817280 en vårdag i april från en av oss grundare (lägg in tweet). Vi hade alla tre på var sitt håll kännt att det började bli väldigt svårt att ha koll på alla intressanta utvecklar-träffar som händer i Stockholmsområdet. Då föddes idén om
-en event-kalender och nån timme senare föddes Google-kalendern #StoDev (Stockholm Dev Events). Kärt barn har många namn och några veckor senare lanserades hemsidan med det nya namnet usergroup.se.
+It all started with a "tweet":http://twitter.com/#!/msundb/status/54797359342817280 in April 2011. The user group scene in Stockholm was exploding with activity. How were you supposed to keep up? What mailing lists did you need to follow. When organizing, how did you make sure there was no other event the same day? 
 
-h5. Syfte
+We decided to do something about it. By using the awesome services of Twitter, Google Calendar, Twitterfeed and Github pages we managed to put something useful together in a short time. Enjoy!
 
-Fokus ligger på träffar av och för utvecklare och andra it-människor men sträcker sig ut till kringområden som Agile, användbarhet och design. Kalenderns viktigast syfte är att belysa alla de bra evengemang som arrangeras i stor-stockolm och på så vis främja utvecklar-communitien i stort.
+h4. Rules
 
-Vi vill självklart fylla kalendern med så många roliga träffar som möjligt men har ändå några tumregler.
+We focus on meetups and events by and for developers or other geeks. For instance meetups about programming languages, design and usability or agile development. The main purpose is to strengten the community by encouraging communication and discusssion.
 
-Träffen skall...
-* vara gratis (eller till självkostnadspris)
-* inte vara för kommersiell (fokus på kunskap, diskussion och möten utvecklare imellan)
+We want to cover as many events as possible, but we decided on some rules.
 
-h5. Vi bakom usergroup.se
+The event should...
+* be free of charge. Paying for food/drinks is ok.
+* not be too commercial. The focus should be on spreading knowledge or discussion, not a sales pitch for some BigCo's latest product.
 
-*Leonard Axelsson*
+ Rules are made to be broken. If we really like the event and it's a by non-profit or DIY we might add it anyway (as we did with "Agila Sverige":http://agilasverige.se).
 
-Leo runs the local Groovy Usergroup SweGUG. He loves to discuss technology and meet other developers so you'll probably see him at one of the events in the calendar. By day he's a consultant/developer with Agical and works mainly on the JVM. He prefers the alternative languages to pure Java and has recently been seen learning about Clojure.
-
-Twitter: xlson
-Blog: xlson.com
-Email: leo@xlson.com
-
-*Peter Lind*
-
-Beskrivande text...
-
-*Mikael Sundberg*
-
-Beskrivande text...

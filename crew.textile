@@ -1,0 +1,28 @@
+---
+title: Crew
+layout: default
+---
+h3. Crew
+
+h4. Leonard Axelsson
+
+Leo runs the local Groovy Usergroup SweGUG. He loves to discuss technology and meet other developers so you'll probably see him at one of the events in the calendar. By day he's a consultant/developer with "Agical":http://agical.se and works mainly on the JVM. He prefers the alternative languages to pure Java and has recently been seen learning about Clojure.
+
+Twitter: "@xlson":http://twitter.com/xlson
+Blog: "xlson.com":http://xlson.com
+Email: leo@xlson.com
+
+h4. Peter Lind
+
+Peter have a long history with Java, but fell in love with Ruby a couple of years ago. He works at "Valtech":http://valtech.se at daytime, and hacks on too many side projects at nighttime. He sometimes organizes Ruby (and other) meetups and occasionally gives talks at conferences and user groups. For some time he believed his next language would be a Lisp, but since then got seduced by CoffeeScript.
+
+Twitter: "@peter_lind":http://twitter.com/peter_lind
+Blog: "peter.lind.be":http://peter.lind.be
+Email: peter@lind.be
+
+
+h4. Mikael Sundberg
+
+Thinking in LISP
+
+Twitter: "@msundb":http://twitter.com/msundb
