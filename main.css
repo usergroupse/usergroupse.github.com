@@ -5,7 +5,7 @@
 section,article,aside,header,footer,nav,dialog,figure
 {display:block}
 body{line-height:1}
-ol,ul{list-style:none;padding:0}
+/*ol,*/ul{list-style:none;padding:0}
 blockquote,q
 {quotes:none}
 blockquote:before,blockquote:after,q:before,q:after
