@@ -27,6 +27,10 @@ a{color:#333}
   font-weight: bold;
   float:left
 }
+#heading a{
+  text-decoration: none;
+  color: #999; 
+}
 #heading h2{
 padding-top: 10px;
 float: none}
