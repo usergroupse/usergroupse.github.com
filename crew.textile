@@ -24,7 +24,7 @@ Email: peter@lind.be
 
 h4. Mikael Sundberg
 
-Micke loves languages, at work as a developer at "Lensway":http://www.lensway.se he mostly uses java and javascript. As a strong beliver in functional languages and LISP's he has spent as much time as possible in Clojure. He also belives that most languages has their use, even bash and PHP. You will most likely find him at a clojure or devops usergroup. You can see him evangelizing Clojoure on the background of the "about":about.html page
+Micke loves languages, at work as a developer at "Lensway":http://www.lensway.se he mostly uses java and javascript. As a strong beliver in functional languages and LISP's he has spent as much time as possible in Clojure. He also belives that most languages has their use, even bash and PHP. You will most likely find him at a clojure or devops usergroup. You can see him evangelizing Clojure on the background of the "about":about.html page
 
 Twitter: "@msundb":http://twitter.com/msundb
 Blog: "cleancode.se":http://cleancode.se
