@@ -12,6 +12,7 @@ h3. User Groups
 * "Javaforum":http://jforum.se The Swedish JUG (Java User Group) chapter
 * "Sclojug":http://groups.google.com/group/stockholm-clojure-user-group/ Stockholm Clojure User Group
 * "SweGUG":http://groups.google.com/group/swegug Swedish Groovy Usergroup
+* "Geek Meet":http://robertnyman.com/geekmeet/ Robert Nyman's Geek Meet
 * "Agical GeekNight":http://agical.se/se/pa-gang Geeknights hosted by Agical
 * "Devops sthlm":https://groups.google.com/forum/#!forum/stockholm-devops
 
