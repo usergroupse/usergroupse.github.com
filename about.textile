@@ -18,7 +18,7 @@ It all started with a "tweet":http://twitter.com/#!/msundb/status/54797359342817
 
 We decided to do something about it. By using the awesome services of Twitter, Google Calendar, Twitterfeed, Google Apps and Github pages we managed to put something useful together in a short time. Enjoy!
 
-h4. Rules
+h4(#rules). Rules
 
 We focus on meetups and events by and for developers or other geeks. For instance meetups about programming languages, design and usability or agile development. The main purpose is to strengten the community by encouraging communication and discusssion.
 
@@ -29,7 +29,7 @@ The event should...
 *# not be too commercial. The focus should be on spreading knowledge or discussion, not a sales pitch for some BigCo's latest product.
 *# be in or near Stockholm.
 
-Rules are made to be broken. If we really like the event and it's a by non-profit or DIY we might add it anyway (as we did with "Agila Sverige":http://agilasverige.se).
+Rules are made to be broken. If we really like the event and it's by a non-profit or DIY we might add it anyway (as we did with "Agila Sverige":http://agilasverige.se).
 
 If you're unhappy about us not listing events in other parts of Sweden, we encourage you to start your own calendar. We can redirect yourtown.usergroup.se at anything that seems useful. 
 

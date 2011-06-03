@@ -6,7 +6,7 @@ background: 1
 
 h3. Add event
 
-Do you want to add an event to the calendar? Currently the only way to do that is to ping us on twitter (see the "about page":about.html) or drop an email to "hello@usergroup.se":mailto:hello@usergroup.se. We aim to add a form to this page in the future.
+Do you want to add an event to the calendar? Currently the only way to do that is to ping us on twitter (see the "crew":crew.html page) or drop an email to "hello@usergroup.se":mailto:hello@usergroup.se. We aim to add a form to this page in the future.
 
-Please note, we only list free events.
+Please note, we only list free events. See the "about":about.html#rules page for rules. 
 
