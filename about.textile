@@ -1,7 +1,7 @@
 ---
 title: about
 layout: default
-background: 2
+background: 4
 ---
 
 h3. About usergroup.se

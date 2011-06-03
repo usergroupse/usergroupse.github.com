@@ -1,6 +1,7 @@
 ---
 title: Crew
 layout: default
+background: 3
 ---
 h3. Crew
 
@@ -14,7 +15,7 @@ Email: leo@xlson.com
 
 h4. Peter Lind
 
-Peter have a long history with Java, but fell in love with Ruby a couple of years ago. He works at "Valtech":http://valtech.se at daytime, and hacks on too many side projects at nighttime. He sometimes organizes Ruby (and other) meetups and occasionally gives talks at conferences and user groups. For some time he believed his next language would be a Lisp, but since then got seduced by CoffeeScript.
+Peter have a long history with Java, but fell in love with Ruby a couple of years ago. He works at "Valtech":http://valtech.se at daytime, and hacks on too many side projects at nighttime. He sometimes organizes Ruby (and other) meetups and occasionally gives talks at conferences and user groups. For some time he believed his next language would be a Lisp, but since then got seduced by CoffeeScript. Also he's vain enough to use a picture of himself as background for this page.
 
 Twitter: "@peter_lind":http://twitter.com/peter_lind
 Blog: "peter.lind.be":http://peter.lind.be
@@ -23,7 +24,7 @@ Email: peter@lind.be
 
 h4. Mikael Sundberg
 
-Micke loves languages, at work as a developer at "Lensway":http://www.lensway.se he mostly uses java and javascript. As a strong beliver in functional languages and LISP's he has spent as much time as possible in Clojure. He also belives that most languages has their use, even bash and PHP. You will most likely find him at a clojure or devops usergroup.
+Micke loves languages, at work as a developer at "Lensway":http://www.lensway.se he mostly uses java and javascript. As a strong beliver in functional languages and LISP's he has spent as much time as possible in Clojure. He also belives that most languages has their use, even bash and PHP. You will most likely find him at a clojure or devops usergroup. You can see him evangelizing Clojoure on the background of the "about":about.html page
 
 Twitter: "@msundb":http://twitter.com/msundb
 Blog: "cleancode.se":http://cleancode.se
