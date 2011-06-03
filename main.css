@@ -66,7 +66,6 @@ z-index:80;
 height:126px;
 background:#15150f;
 opacity:0.9;
-filter:alpha(opacity=99);
 color:#999;
 margin-left:-10px;
 margin-right:20px;
@@ -93,7 +92,6 @@ position:relative;
 z-index:1;
 background:#fff;
 opacity:0.85;
-filter:alpha(opacity=85);
 border:solid 1px #555;
 -webkit-border-radius:10px;
 -moz-border-radius:10px;
@@ -111,7 +109,8 @@ margin-bottom:5px;
 width:100%;
 }
 footer a {
-color:#999;
+color:#fff;
+text-decoration: none;
 }
 #missing {
 width:650px;
