@@ -9,7 +9,8 @@ h3. About usergroup.se
 h4. Our many faces
 
 * "@usergroupSE":http://twitter.com/usergroupSE on Twitter. We tweet all events added to the calendar.
-* "Google Calendar":https://www.google.com/calendar/embed?src=oarn29ir2vm2kjfaa5vof7qicg@group.calendar.google.com&ctz=Europe/Stockholm Why don't add the events to your own calendar?
+* "Google Calendar":https://www.google.com/calendar/embed?src=oarn29ir2vm2kjfaa5vof7qicg@group.calendar.google.com&ctz=Europe/Stockholm Why don't you add the events to your own calendar?
+* "RSS":http://feeds.feedburner.com/usergroupSE for your feed reader.
 * "usergroup.se":http://usergroup.se/ This page, duh!
 
 h4. Background
