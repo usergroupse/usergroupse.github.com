@@ -6,7 +6,8 @@ background: 1
 
 h3. Add event
 
-Do you want to add an event to the calendar? There are a couple of ways to get in touch with us but the easiest by far is to use the form below. You could also "email":mailto:hello@usergroup.se us or get in touch on twitter. You find our accounts on the "crew":/crew.html page.
+Do you want to add an event to the calendar? There are a couple of ways to get in touch with us but the easiest by far is to use the form below. You could also "email":mailto:hello@usergroup.se us or get in touch on "twitter":http://twitter.com/usergroupSE. You find our accounts on the "crew":/crew.html page.
 
-Please note, we only list free events. See the "about":about.html#rules page for rules. 
+Please note, we only list free events. See the "about":about.html#rules page for rules.
+<br>
 <iframe src="https://spreadsheets.google.com/a/usergroup.se/spreadsheet/embeddedform?formkey=dGJ5SGFjekVjUDhIaEI4d0Zsb1oxZWc6MQ" width="760" height="1042" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
