@@ -17,6 +17,8 @@ h3. User Groups
 * "Devops sthlm":https://groups.google.com/forum/#!forum/stockholm-devops Devops in stockholm
 * "CocoaHeads Stockholm":http://groups.google.com/group/cocoaheads-stockholm Cocoa (iOS/OS X) User Group
 * "Stockholm Python User Group":http://www.meetup.com/pysthlm/ 
+* "SweNug":http://www.swenug.se/ Sweden .Net User Group
+* "TRADIG":http://www.meetup.com/tradig/ The Rich Application Development Interest Group
 
 Is your favorite user group missing? Send an email to "hello@usergroup.se":mailto:hello@usergroup.se
 Or even better, "fork and edit this file":https://github.com/usergroupse/usergroupse.github.com/blob/master/usergroups.textile and send a pull request.
