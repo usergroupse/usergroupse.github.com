@@ -21,6 +21,7 @@ h3. User Groups
 * "TRADIG":http://www.meetup.com/tradig/ The Rich Application Development Interest Group
 * "FP Stockholm":http://groups.google.com/group/functional-programming-sthlm Functional Programming Stockholm
 * "UUGS":http://uugs.se Umbraco User Group Sweden
+* "Scala Stockholm":http://www.meetup.com/Scala-Stockholm/
 
 Is your favorite user group missing? Send an email to "hello@usergroup.se":mailto:hello@usergroup.se
 Or even better, "fork and edit this file":https://github.com/usergroupse/usergroupse.github.com/blob/master/usergroups.textile and send a pull request.
