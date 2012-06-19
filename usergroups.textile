@@ -23,6 +23,7 @@ h3. User Groups
 * "UUGS":http://uugs.se Umbraco User Group Sweden
 * "Scala Stockholm":http://www.meetup.com/Scala-Stockholm/
 * "Duchess Sweden":http://jduchess.org The Swedish chapter of the global network Duchess for women in Java Technology
+* "Go Stockholm":http://www.meetup.com/Go-Stockholm/ The Stockholm Go language user group
 
 Is your favorite user group missing? Send an email to "hello@usergroup.se":mailto:hello@usergroup.se
 Or even better, "fork and edit this file":https://github.com/usergroupse/usergroupse.github.com/blob/master/usergroups.textile and send a pull request.
