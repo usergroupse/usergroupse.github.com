@@ -7,7 +7,7 @@ background: 2
 h3. User Groups
 
 * "GTUG":http://sites.google.com/site/stockholmgtug/ Google Technology User Group
-* "SHRUG":http://www.meetup.com/SHRUG-Stockholm-Ruby-User-Group/
+* "SHRUG":http://www.meetup.com/SHRUG-Stockholm-Ruby-User-Group/ Stockholm Ruby User Group
 * "SLUG":http://stockholm.lug.se/ Stockholm Linux User Group
 * "STHML Lounge Hackers":http://meetup.com/STHLM-Lounge-Hackers/ AWW: Lounge + Hackers
 * "Javaforum":http://jforum.se The Swedish JUG (Java User Group) chapter
