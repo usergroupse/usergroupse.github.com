@@ -16,7 +16,7 @@ h3. User Groups
 * "Geek Meet":http://robertnyman.com/geekmeet/ Robert Nyman's Geek Meet
 * "Agical GeekNight":http://agical.se/se/pa-gang Geeknights hosted by Agical
 * "Devops sthlm":https://groups.google.com/forum/#!forum/stockholm-devops Devops in stockholm
-* "CocoaHeads Stockholm":http://groups.google.com/group/cocoaheads-stockholm Cocoa (iOS/OS X) User Group
+* "CocoaHeads Stockholm":http://www.meetup.com/CocoaHeads-Stockholm/ Cocoa (iOS/OS X) User Group
 * "Stockholm Python User Group":http://www.meetup.com/pysthlm/ 
 * "SweNug":http://www.swenug.se/ Sweden .Net User Group
 * "TRADIG":http://www.meetup.com/tradig/ The Rich Application Development Interest Group
